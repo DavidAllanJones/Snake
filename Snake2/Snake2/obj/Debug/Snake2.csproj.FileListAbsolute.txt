@@ -1,0 +1,10 @@
+C:\Users\allan\source\repos\Snake2\Snake2\bin\Debug\Snake2.exe.config
+C:\Users\allan\source\repos\Snake2\Snake2\bin\Debug\Snake2.exe
+C:\Users\allan\source\repos\Snake2\Snake2\bin\Debug\Snake2.pdb
+C:\Users\allan\source\repos\Snake2\Snake2\obj\Debug\Snake2.csprojAssemblyReference.cache
+C:\Users\allan\source\repos\Snake2\Snake2\obj\Debug\Snake2.Form1.resources
+C:\Users\allan\source\repos\Snake2\Snake2\obj\Debug\Snake2.Properties.Resources.resources
+C:\Users\allan\source\repos\Snake2\Snake2\obj\Debug\Snake2.csproj.GenerateResource.cache
+C:\Users\allan\source\repos\Snake2\Snake2\obj\Debug\Snake2.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\Snake2\Snake2\obj\Debug\Snake2.exe
+C:\Users\allan\source\repos\Snake2\Snake2\obj\Debug\Snake2.pdb
